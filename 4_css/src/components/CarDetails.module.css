@@ -1,0 +1,8 @@
+/*Css scoped CarDetails.module.css*/
+.lista_carros {  
+    list-style-type: none;  
+    font-weight: bold;  
+    font-size: 20px;
+    background-color: #111;
+    color: cadetblue; 
+}
